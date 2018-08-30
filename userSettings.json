@@ -1,0 +1,28 @@
+{
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "editor.formatOnSave": false,
+    "window.openFilesInNewWindow": "on",
+    "prettier.eslintIntegration": true,
+    "eslint.autoFixOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "editor.renderWhitespace": "all",
+    "editor.codeLens": true,
+    "workbench.panel.location": "bottom",
+    "workbench.activityBar.visible": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true,
+      "suppressWelcomeNotice": true
+    },
+    "gitlens.keymap": "alternate",
+    "files.autoSave": "onFocusChange",
+    "vsicons.dontShowNewVersionMessage": true,
+    "java.updateImportsOnFileMove.enabled": "always",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Atom One Dark"
+  }
